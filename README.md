@@ -7,7 +7,7 @@ React-tutorial
 
 # Project Description
 
-> This is the first project of the Math Magicians application. I design the interface needed to develop a React application. In the project, I will develop the actual application.
+> This is a follow up tutorial on React-tutorial
 
 ## Built With
 
